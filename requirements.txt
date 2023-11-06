@@ -1,0 +1,5 @@
+serial==0.0.97
+mysql-connector==2.2.9
+yagmail==0.15.293
+openai==0.28.1
+
