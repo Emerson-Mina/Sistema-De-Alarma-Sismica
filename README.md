@@ -58,7 +58,7 @@ Resultado:
 
 <center>
   <audio controls>
-    <source src="Script_Python/aud/Descripcion sismica.mp3" type="audio/mpeg">
+    <source src="aud/Descripcion sismica.mp3" type="audio/mpeg">
     Tu navegador no soporta la reproducción de audio.
   </audio>
 </center>
